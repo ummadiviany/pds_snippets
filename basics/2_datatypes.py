@@ -9,6 +9,8 @@
 # -----------------------------------------------------------
 
 
+# Explain the data types in Python
+
 print('-'*50)
 number = 10
 print(f"This is a number: {number} with type {type(number)}")

@@ -11,6 +11,10 @@
 
 # How to input data from user?
 
+sep_str = "-"*50
+
+
+print(f"\n-------------------Input from user-------------------\n")
 # 1. String input
 name = input("Enter you name: ")
 
@@ -19,7 +23,7 @@ print(f"The type of entered value is {type(name)}")
 
 # Print the input
 print(f"Your name is {name}")
-
+print(sep_str)
 
 # 2. Integer input
 number = int(input("Enter a number: "))

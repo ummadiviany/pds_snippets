@@ -15,7 +15,7 @@ This reposritry contains code snippets for CS60013 : Programming and Data Struct
 ## [Python Programming Basics - 23 Aug, 2022](basics)
     10. Conditional Statements
     11. Loops/Iteration
-    12. Conditional Statements and Loops
+    12. Combining Conditional Statements and Loops
     13. Continue and Break Statements
     14. Lists
     15. Dictionaries
